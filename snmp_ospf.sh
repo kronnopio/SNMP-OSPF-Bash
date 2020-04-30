@@ -19,7 +19,7 @@ format="| %-50s |"
 printf "$format\n" -------------------------------------------------- > /tmp/$0
 printf "$format\n" "              SNMP OSPF Bash Table              " >> /tmp/$0
 printf "$format\n" -------------------------------------------------- >> /tmp/$0
-printf "$format\n" "                Walter Reverdito                " >> /tmp/$0
+printf "$format\n" "                   Kronnopio                    " >> /tmp/$0
 printf "$format\n" -------------------------------------------------- >> /tmp/$0
 
 
